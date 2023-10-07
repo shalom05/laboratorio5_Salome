@@ -1,0 +1,74 @@
+.hiddenPart {
+    display: none;
+}
+
+.eyes1 {
+    position: absolute;
+    z-index: 10;
+    width: 164px;
+    left: 179px;
+    top: 513px;
+}
+
+.eyes2 {
+    position: absolute;
+    z-index: 10;
+    width: 114px;
+    left: 208px;
+    top: 533px;
+}
+
+.eyes3 {
+    position: absolute;
+    z-index: 10;
+    width: 181px;
+    left: 181px;
+    top: 520px;
+}
+
+.mouth1 {
+    position: absolute;
+    z-index: 10;
+    width: 114px;
+    left: 208px;
+    top: 652px;
+}
+
+.mouth2 {
+    position: absolute;
+    z-index: 10;
+    width: 114px;
+    left: 208px;
+    top: 652px;
+}
+.mouth3 {
+    position: absolute;
+    z-index: 10;
+    width: 114px;
+    left: 208px;
+    top: 652px;
+}
+
+.nose1 {
+    position: absolute;
+    z-index: 10;
+    width: 61px;
+    left: 235px;
+    top: 600px;
+}
+
+.nose2 {
+    position: absolute;
+    z-index: 10;
+    width: 92px;
+    left: 219px;
+    top: 598px;
+}
+
+.nose3 {
+    position: absolute;
+    z-index: 10;
+    width: 114px;
+    left: 208px;
+    top: 576px;
+}
