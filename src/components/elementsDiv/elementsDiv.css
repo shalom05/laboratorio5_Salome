@@ -6,7 +6,7 @@
     position: absolute;
     z-index: 10;
     width: 164px;
-    left: 179px;
+    left: 680px;
     top: 513px;
 }
 
@@ -14,15 +14,15 @@
     position: absolute;
     z-index: 10;
     width: 114px;
-    left: 208px;
-    top: 533px;
+    left: 700px;
+    top: 525px;
 }
 
 .eyes3 {
     position: absolute;
     z-index: 10;
     width: 181px;
-    left: 181px;
+    left: 678px;
     top: 520px;
 }
 
@@ -30,30 +30,30 @@
     position: absolute;
     z-index: 10;
     width: 114px;
-    left: 208px;
+    left: 708px;
     top: 652px;
 }
 
 .mouth2 {
     position: absolute;
     z-index: 10;
-    width: 114px;
-    left: 208px;
+    width: 110px;
+    left: 710px;
     top: 652px;
 }
 .mouth3 {
     position: absolute;
     z-index: 10;
     width: 114px;
-    left: 208px;
-    top: 652px;
+    left: 710px;
+    top: 675px;
 }
 
 .nose1 {
     position: absolute;
     z-index: 10;
-    width: 61px;
-    left: 235px;
+    width: 45px;
+    left: 745px;
     top: 600px;
 }
 
@@ -61,14 +61,14 @@
     position: absolute;
     z-index: 10;
     width: 92px;
-    left: 219px;
+    left: 725px;
     top: 598px;
 }
 
 .nose3 {
     position: absolute;
     z-index: 10;
-    width: 114px;
-    left: 208px;
-    top: 576px;
+    width: 90px;
+    left: 725px;
+    top: 585px;
 }

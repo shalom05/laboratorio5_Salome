@@ -1,0 +1,9 @@
+.Appcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+big-container {
+    display: flex;
+}

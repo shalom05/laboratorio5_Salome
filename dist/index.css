@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(162, 4, 253);
+    background-image: radial-gradient(#ffffff3c 3px, transparent 5px); 
+    background-size: 40px 40px;
+}
+
+app-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

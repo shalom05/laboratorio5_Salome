@@ -1,9 +1,10 @@
 section {
     display: flex;
     flex-direction: column;
+    width: fit-content;
 }
 
 .buttonRow {
     display: flex;
-    border: 1px solid aqua;
+    width: fit-content;
 }
